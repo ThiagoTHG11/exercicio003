@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: rgb(216, 215, 215);
+}
+.header {
+    background-color: whitesmoke;
+    padding: 10px;
+    text-align: center;
+}
+
+.article {
+    background-color: rgb(190, 190, 190);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+}
