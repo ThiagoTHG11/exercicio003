@@ -23,6 +23,7 @@ for (let i=0; i<posts.length; i++) {
     article.classList.add("article");
     const title = document.createElement("h1");
     const titleText = document.createTextNode(postData.title);
+    title.classList.add("h1");
     title.appendChild(titleText);
     article.appendChild(title);
 
